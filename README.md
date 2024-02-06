@@ -25,7 +25,7 @@
 
 ## My Projects 🌟
 
-### [Text summarizer](https://github.com/mana9512/Text-Summarizer)
+### [ConvoSum (Summarizing Dialogues with Ease)](https://github.com/mana9512/Text-Summarizer)
 * **[Tech Stack]** - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face Transformers](https://img.shields.io/badge/-Hugging_Face_Transformers-blue?style=flat-square&logo=huggingface&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
