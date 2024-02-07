@@ -1,15 +1,8 @@
 <h1><img src='Manashreegithub.png' /></h1>
-<h2>Greetings, fellow developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mana9512/)](https://github.com/mana9512/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manashree-patel/)](https://www.linkedin.com/in/manashree-patel)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manashreepatel28@gmail.com)](mailto:manashreepatel28@gmail.com)
-
-
-# 👋 Hi there! I'm [Manashree Patel]
+<h2>Greetings, fellow developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 🚀 Software Developer | Passionate Creator | Impact Seeker
 
@@ -22,7 +15,6 @@
 📫 Reach out to me for exciting opportunities and meaningful collaborations!
 
 ✨ Let's build a better tomorrow, today! ✨
-## 👯 Projects
 
 ## My Projects 🌟
 
@@ -99,3 +91,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=continuous-integration&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-blueviolet?style=flat-square&logo=terraform&logoColor=white)
+
+
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mana9512/)](https://github.com/mana9512/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manashree-patel/)](https://www.linkedin.com/in/manashree-patel)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manashreepatel28@gmail.com)](mailto:manashreepatel28@gmail.com)
+
