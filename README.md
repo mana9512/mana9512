@@ -1,8 +1,8 @@
 <h1><img src='Manashreegithub.png' /></h1>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<h2>Greetings, fellow developers! </h2> <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300"/>
 
-<h2>Greetings, fellow developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 
 🚀 Software Developer | Passionate Creator | Impact Seeker
 
