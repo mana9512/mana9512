@@ -18,14 +18,50 @@
 
 ## My Projects 🌟
 
-### [ConvoSum (Summarizing Dialogues with Ease)](https://github.com/mana9512/Text-Summarizer)
+<h2 style="color: #4285F4;">Cloud Computing</h2>
+
+#### [Cloud Native User Management System on GCP](https://github.com/Manashree2612/webapp)
+* **[Tech Stack]** - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Packer](https://img.shields.io/badge/-Packer-02A8EF?style=flat-square&logo=packer&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+- Engineered a cloud-native user management system deployed on Google Cloud Platform (GCP).
+- Implemented automated deployment of Node.js APIs using GitHub Actions, streamlining the CI/CD pipeline.
+- Utilized Packer and Terraform for infrastructure as code, ensuring consistent and reproducible deployments
+- Implemented unit and integration tests using Jest, Mocha, and Chai.
+
+<h2 style="color: #4285F4;"> Machine Learning and Deep Learning </h2>
+
+#### [Medical Image Gen](https://github.com/mana9512/MedImgGen)
+* **[Tech Stack]** - ![Diffusers](https://img.shields.io/badge/-Diffusers-FF6F61?style=flat-square&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Latent Diffusion Model](https://img.shields.io/badge/-Latent_Diffusion_Model-9999FF?style=flat-square&logo=pytorch&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FFA500?style=flat-square&logo=tensorflow&logoColor=white)
+- Developed a medical image generation system using advanced deep learning techniques.
+- Fine-tuned the CLIP component of a diffusion model to generate images of skin diseases from textual prompts.
+- Implemented a user-friendly interface using Streamlit for easy interaction with the model.
+
+#### [ConvoSum (Summarizing Dialogues with Ease)](https://github.com/mana9512/Text-Summarizer)
 * **[Tech Stack]** - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face Transformers](https://img.shields.io/badge/-Hugging_Face_Transformers-blue?style=flat-square&logo=huggingface&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
 - Implemented a Text Summarizer project utilizing Large Language Models (LLMs) to condense conversation into precise summary.
 - Leveraged pre-trained pegasus LLM from hugging face transformers to fine tune samsum dataset.
 
-### [Bank Term Deposit Classifier](https://github.com/mana9512/bank-term-deposit-prediction)
+
+#### [Facial Expression Recognition with Deep Learning](https://github.com/mana9512/streamlit-facial-emotion-recognition)
+* **[Tech Stack]** - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- Developed a deep learning model to classify facial expressions into 7 emotion categories (angry, disgusted, fearful, happy, neutral, sad, surprised).
+- Utilized a Convolutional Neural Network (CNN) architecture trained on the FER-2013 dataset, achieving 63% accuracy on the test set.
+- Implemented real-time emotion detection using OpenCV for face detection and the trained model for classification.
+
+#### [Bank Term Deposit Classifier](https://github.com/mana9512/bank-term-deposit-prediction)
 * **[Tech Stack]** - [![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=flat-square&logo=machine-learning)](https://www.tensorflow.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-orange?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-brightgreen?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/)
@@ -37,7 +73,11 @@
 - Performed feature selection, exploratory data analysis and model evaluation.
 - Addressed imbalanced classes, showcasing the unbiased nature of Tree based classifiers.
 
-### [Stresser Website](https://github.com/mana9512/Stresser)
+
+
+<h2 style="color: #4285F4;"> Full Stack Projects </h2>
+
+#### [Stresser Website](https://github.com/mana9512/Stresser)
 * **[Tech Stack]** - ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -46,7 +86,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - Developed RESTful APIs using the Django framework to augment API performance and implemented personality prediction utilizing K-means clustering. Achieved an accuracy rate exceeding 80% through analysis of DASS (Depression, Anxiety, and Stress Scale) test data.
 
-### [Doc-Connect](https://github.com/mana9512/Doc-Connect)
+#### [Doc-Connect](https://github.com/mana9512/Doc-Connect)
 * **[Tech Stack]** -  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-brightgreen?style=flat-square&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-orange?style=flat-square&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
